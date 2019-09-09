@@ -11,6 +11,3 @@ end
 def get_english_meaning
   # code goes here
 end
-
-emotes = load_library('emoticons.yml')
-p emotes
